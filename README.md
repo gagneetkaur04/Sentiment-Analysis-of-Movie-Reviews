@@ -8,7 +8,7 @@ In the dataset each record represents a movie-review pair with movie title, desc
 3. Data Preprocessing (text into vectors, feature scaling, encoding)
 4. Trained Models (Data Metrics, Hyperparameter Tuning, etc.)
 
-### Applied 
+### Applied 3 different ML Models
 1. Logistic Regression (score:0.844)
 2. Naive Bayes Classifier (score:0.823)
 3. Linear SVC (score:0.847)
